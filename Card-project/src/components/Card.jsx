@@ -20,7 +20,7 @@ const Card = (props) => {
               <div className='tag'>
                 <h4>{props.tag1}</h4>
                 <h4>{props.tag2}</h4>
-              </div>
+              </div>cc
     
             </div>
             </div>
